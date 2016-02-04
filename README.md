@@ -32,7 +32,16 @@ Once you have search for your item it displays the items. This page is generated
 ## Logout Screen
 Redirects you to log in page
 
-https://github.com/mh453/dijam/blob/master/logout-dijam.PNG
+![Image of Item Page](https://github.com/mh453/dijam/blob/master/logout-dijam.PNG)
+
+## Error Page
+If you try to access a page without login in it will redirect you to error page
+
+![Image of Item Page](https://github.com/mh453/dijam/blob/master/errorpage-dijam.PNG)
+
+Thanks for reaching this far!
+
+
 
 
 
